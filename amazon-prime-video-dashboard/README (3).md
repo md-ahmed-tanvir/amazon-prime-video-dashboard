@@ -19,12 +19,6 @@ This dashboard provides a visual breakdown of:
 - Data Cleaning & Transformation (Power Query)
 
 
-## 📸 Dashboard Preview
-
-| Overview Page | Insight Sections | Fun Facts + Slicers |
-|---------------|------------------|----------------------|
-| ![overview](https://github.com/snehez/amazon-prime-video-dashboard/blob/main/AmazonPrime.png) | ![sections](https://github.com/snehez/amazon-prime-video-dashboard/blob/main/AmazonPrimeExplore.png) | ![trivia](https://github.com/snehez/amazon-prime-video-dashboard/blob/main/AmazonPrimeFunFacts.png) |
-
 
 ## 📁 File Info
 - `AmazonPrimeDashboard.pbix` – The Power BI file
@@ -33,8 +27,8 @@ This dashboard provides a visual breakdown of:
 
 ## 🙋‍♀️ Created by
 
-**Sneha Ghosh** – Data Analyst & Power BI Enthusiast  
-[https://www.linkedin.com/in/sneha-ghosh-98aaa9337)
+**Md. Tanvir Ahmed** – Data Analyst & Power BI Enthusiast  
+[https://www.linkedin.com/in/mdtanvirahmeddev/)
 
 
 ## ⭐ If you like it…
